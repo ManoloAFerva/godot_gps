@@ -1,7 +1,7 @@
 {
   "name": "Godot GPS Test",
   "short_name": "GdPS",
-  "start_url": "/",
+  "start_url": "/godot_gps",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
